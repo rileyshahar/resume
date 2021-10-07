@@ -12,7 +12,7 @@ title: Riley Shahar
 
 ## Projects
 
-### [**aga**](https://github.com/nihilistkitten/aga) | python, docker, CLI development, API design
+### [**aga**](https://github.com/nihilistkitten/aga) | python, CLI development, API design
 
 Library for easy development of CS assignment autograders
 
@@ -40,7 +40,7 @@ Configuration files for daily use on Arch Linux
 
 ## Work Experience
 
-### **Teaching Assistant** | Computer Science Department | Reed College | Fall 2021-Present
+### **Teaching Assistant** | Computer Science Department | Reed College | Portland, OR | Fall 2021-Present
 
 TA Reed’s Intro CS course, CSCI 121, and the accelerated version, CSCI 122, both taught in Python
 
@@ -49,7 +49,7 @@ TA Reed’s Intro CS course, CSCI 121, and the accelerated version, CSCI 122, bo
 - Runing weekly tutor sessions and co-teaching weekly lab section
 - Grading student work and provide detailed feedback
 
-### **Peer CS Tutor** | Computer Science Department | Reed College | Jan–May 2021
+### **Peer CS Tutor** | Computer Science Department | Reed College | Portland, OR | Jan–May 2021
 
 Tutored students in Reed’s CSCI 221 course, an intro to circuit design and computer architecture at the hardware-software interface in C, C++, and MIPS32
 
