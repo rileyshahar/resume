@@ -5,6 +5,7 @@ BUILD_PATH=$(BUILD_DIR)/$(FILE_NAME)
 
 PANDOC_ARGS=-t html --css style.css --self-contained
 HTML_ARGS=-H header.html
+PDF_ARGS=-V margin-top=1 -V margin-left=1 -V margin-right=1 -V margin-bottom=1 -V papersize=letter
 
 COMPANY_BUILD_DIR=$(BUILD_DIR)/$(company)
 COMPANY_FILE_NAME=$(FILE_NAME) - $(company)
@@ -18,8 +19,7 @@ $(company): pdf html
 		cp "$(BUILD_PATH).html" "$(COMPANY_BUILD_PATH).html"
 
 pdf: $(SOURCES) build_dir
-	pandoc resume.md -o "$(BUILD_PATH).pdf" $(PANDOC_ARGS) \
-		-V margin-top=1 -V margin-left=1 -V margin-right=1 -V margin-bottom=1 -V papersize=letter
+	pandoc resume.md -o "$(BUILD_PATH).pdf" $(PANDOC_ARGS) $(PDF_ARGS)
 
 html: $(SOURCES) build_dir
 	pandoc resume.md -o "$(BUILD_PATH).html" $(PANDOC_ARGS) $(HTML_ARGS)
