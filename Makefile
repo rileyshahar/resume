@@ -27,5 +27,6 @@ html: $(SOURCES) build_dir
 build_dir:
 	mkdir -p $(BUILD_DIR)
 
+.PHONY: clean
 clean:
 	-rm -rf $(BUILD_DIR)
