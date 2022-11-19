@@ -2,7 +2,7 @@ build_dir := justfile_directory() + "/build"
 file_name := "Riley Shahar - Resume"
 
 pandoc := "pandoc resume.md -o"
-pandoc_args := "-t html --css style.css --self-contained"
+pandoc_args := "-t html --css style.css --standalone --embed-resources"
 
 company := ""
 target_dir := build_dir + "/" + company
