@@ -8,21 +8,29 @@ title: Riley Shahar
 
 ### **Reed College** | Bachelor's Degree: Mathematics and Computer Science | Portland, OR | May 2024
 
-### **The Nueva School** | San Mateo, CA | June 2019
+- *Commendation for Excellence in Academic Performance*, 2020-21, 2021-22, 2022-23
+- *Goldwater Scholarship Nominee*, 2022-23
 
 ## Research & Teaching
 
-### **REU Participant** | Compuer Science | University of Pennsylvania | Portland, OR | Summer 2022-Present
+### **Student Research Fellow** | University of Pennsylvania | Philadelphia, PA | Summer 2023
 
 Working with Professor Steve Zdancewic on models of linear logic
 
--
+- Constructed a model of linear logic internal to the subobject poset of monads
+  over suitable categories
+- Currently investigating this model instantiated with the Giry and continuation
+  monads
+- Wrote literature summary on abstract interpretation over real vector spaces
+- Organized weekly peer-to-peer seminar for other undergraduate researchers at
+  Penn
 
 ### **Student Research Fellow** | Compuer Science | Reed College | Portland, OR | Summer 2022-Spring 2023
 
 Worked with Professor Charlie McGuffey on theoretical analysis of caching
 
 - Studied competitive ratios of stack algorithms in general model caching
+- Proved non-competitiveness of the Sum-Cost Priority algorithm in the cost model
 - Wrote fully featured cache simulator for experimental evaluation of caching algorithms
 - Collaborated with other student researchers; sharing code, discussing ideas, editing proofs
 
@@ -32,8 +40,8 @@ Worked with Professor Charlie McGuffey on theoretical analysis of caching
 
 - *Vector Calculus*, Fall 2023
 - *Computability and Complexity*, Fall 2022, Fall 2023
-- Abstract Algebra, Spring 2023
-- Operating Systems, Spring 2023
+- *Abstract Algebra*, Spring 2023
+- *Operating Systems*, Spring 2023
 - *CS Fundamentals I*, Fall 2021, Fall 2022, Spring 2023, Fall 2023
 - *Intermediate CS Fundamentals I*, Fall 2022
 - *CS Fundamentals II*, Spring 2022
@@ -46,53 +54,14 @@ Worked with Professor Charlie McGuffey on theoretical analysis of caching
 <!-- - Started peer mentorship program. Connected marginalized students with mentors of similar backgrounds -->
 <!-- - Led team from unranked to 11th in the nation in only two years -->
 
-## Projects
-
-### [**aga**](https://github.com/nihilistkitten/aga) | python, CLI development, library design
-
-Library for easy development of CS assignment autograders
-
-- Started work on own time and initiative; now paid to develop for Reed College intro CS
-- Designed & implemented user-friendly, pythonic, decorator-heavy API and strongly-typed CLI
-- Utilizing modern devops tools/CI pipeline for testing, code formatting, and documentation generation
-
-### [**cache-sim**](https://github.com/nihilistkitten/cache-sim) | rust, algorithms, research
-
-Research cache simulator for experimental evaluation of cache algorithms
-
-- Actively in use for multiple ongoing research projects at Reed
-- Used polymorphism to implement generic library for different caching models
-- Optimized to run on datasets with billions of accesses
-
-### [**botcbot**](https://github.com/nihilistkitten/botcbot) | python, concurrency, OOP
-
-Asynchronous Discord bot for running the board game Blood on the Clocktower
-
-- Implemented safe concurrent management of gamestate with simultaneous networked player actions
-- Used object-oriented paradigm to allow easy extensibility with new game content
-- Moved recent development to a private repo due to playtesting private IP with game's developers
-
-### [**puzzles**](https://github.com/nihilistkitten/aga) | rust, algorithms, optimization, library design
-
-Rust solutions to various Advent of Code and Project Euler programming puzzles
-
-- Optimized each solution to under 1sec runtime; most under 1ms
-- Extracted core algorithms like prime generation and graph traversal to shared library with polymorphic API
-
-### [**dotfiles**](https://github.com/nihilistkitten/dotfiles) | bash, lua, linux, git
-
-Configuration files for daily use on Arch Linux
-
-- Wrote hundreds of lines of Bash scripts for automating daily workflow
-- Implemented fast, dynamic [custom statusline](https://nihilistkitten.me/nvim-lua-statusline/) for Neovim in Lua
-
 ## Service
 
 ### **Reed College Computer Science**
 
-- Founder, Peer Workshop Series, Nov 2021-Present
-- Workshop leader: imposter syndrome, code style, pytest, rust; Peer Workshop Series; Nov 2021-Present
-- Co-Coordinator, Peer Mentorship Program, Jan 2022-Present
+- Student Volunteer, *Cascade Lectures in Combinatorics*, 2023
+- Founder & Coordinator, Peer Workshop Series, Fall 2021-Spring 2023
+- Workshop leader: impostor syndrome, code style, pytest, rust; Peer Workshop Series; Nov 2021-Present
+- Co-Coordinator, Peer Mentorship Program, Jan 2022-Spring 2023
 - Peer Mentor, Peer Mentorship Program, Aug 2021-Present
 
 ### **Competitive Debate**
