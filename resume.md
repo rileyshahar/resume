@@ -25,7 +25,7 @@ Working with Professor Steve Zdancewic on models of linear logic
 - Organized weekly peer-to-peer seminar for other undergraduate researchers at
   Penn
 
-### **Student Research Fellow** | Compuer Science | Reed College | Portland, OR | Summer 2022-Spring 2023
+### **Student Research Fellow** | Computer Science | Reed College | Portland, OR | Summer 2022-Spring 2023
 
 Worked with Professor Charlie McGuffey on theoretical analysis of caching
 
@@ -46,13 +46,13 @@ Worked with Professor Charlie McGuffey on theoretical analysis of caching
 - *Intermediate CS Fundamentals I*, Fall 2022
 - *CS Fundamentals II*, Spring 2022
 
-<!-- ### **Head Debate Coach** | Crystal Springs Uplands School | Hillsborough, CA | Oct 2019–May 2021 -->
+### **Head Debate Coach** | Crystal Springs Uplands School | Hillsborough, CA | Oct 2019–May 2021
 
-<!-- Coached 6th-12th graders at highly selective independent school -->
+Coached 6th-12th graders at highly selective independent school
 
-<!-- - Taught critical skills: research, argumentation, public speaking -->
-<!-- - Started peer mentorship program. Connected marginalized students with mentors of similar backgrounds -->
-<!-- - Led team from unranked to 11th in the nation in only two years -->
+- Taught critical skills: research, argumentation, public speaking
+- Started peer mentorship program, connecting marginalized students with mentors of similar backgrounds
+- Led team from unranked to 11th in the nation in only two years
 
 ## Service
 
