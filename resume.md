@@ -2,33 +2,41 @@
 title: Riley Shahar
 ---
 
-> 650.787.4603 | riley.shahar@gmail.com | [nihilistkitten.me](https://nihilistkitten.me) | she/her
+> 650.787.4603 | riley.shahar@gmail.com | she/they
 
 ## Education
 
-### **Reed College** | Bachelor's Degree: Computer Science and Mathematics | Portland, OR | May 2024
+### **Reed College** | Bachelor's Degree: Mathematics and Computer Science | Portland, OR | May 2024
 
 ### **The Nueva School** | San Mateo, CA | June 2019
 
 ## Research & Teaching
 
-### **Student Research Fellow** | Compuer Science | Reed College | Portland, OR | Summer 2022-Present
+### **REU Participant** | Compuer Science | University of Pennsylvania | Portland, OR | Summer 2022-Present
 
-Working with Professor Charlie McGuffey on theoretical analysis of caching
+Working with Professor Steve Zdancewic on models of linear logic
 
-- Studying competitive ratios of stack algorithms in general model caching; submitting paper early 2023
+-
+
+### **Student Research Fellow** | Compuer Science | Reed College | Portland, OR | Summer 2022-Spring 2023
+
+Worked with Professor Charlie McGuffey on theoretical analysis of caching
+
+- Studied competitive ratios of stack algorithms in general model caching
 - Wrote fully featured cache simulator for experimental evaluation of caching algorithms
-- Collaborating with other student researchers; sharing code, discussing ideas, editing proofs
+- Collaborated with other student researchers; sharing code, discussing ideas, editing proofs
 
-### **Teaching Assistant** | Computer Science and Mathematics | Reed College | Portland, OR | Aug 2021-Present
+### **Teaching Assistant** | Mathematics and Computer Science | Reed College | Portland, OR | Aug 2021-Present
 
 <!-- Currently TAing three Math and CS courses at Reed College -->
 
-- *Vector Calculus*, Fall 2023 [already hired]: differentiation and integration of differential forms
-- *CS Fundamentals I*, Fall 2021, Fall 2022: Python-based introduction to CS
-- *Intermediate CS Fundamentals I*, Fall 2022: accelerated introduction to CS
-- *Computability and Complexity*, Fall 2022: decidability, complexity classes, completeness
-- *CS Fundamentals II*, Spring 2022: C, C++, MIPS-32, circuit design, boolean algebra
+- *Vector Calculus*, Fall 2023
+- *Computability and Complexity*, Fall 2022, Fall 2023
+- Abstract Algebra, Spring 2023
+- Operating Systems, Spring 2023
+- *CS Fundamentals I*, Fall 2021, Fall 2022, Spring 2023, Fall 2023
+- *Intermediate CS Fundamentals I*, Fall 2022
+- *CS Fundamentals II*, Spring 2022
 
 <!-- ### **Head Debate Coach** | Crystal Springs Uplands School | Hillsborough, CA | Oct 2019–May 2021 -->
 
